@@ -7,3 +7,6 @@ The Game.java class needs to be run in order to start the game.
 The Ball.java class creates the ball and controls its movement. 
 The Paddle.java class creates the paddles the players use and controls its movements. 
 The KeyInput.java class listens for key presses and uses them to control the paddles
+
+
+Do mark a star if you like the repository.
